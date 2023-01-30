@@ -2,7 +2,7 @@
 
 # Image
 
-##Hosted Url Link-(https://react-fitness-orcin.vercel.app/)
+#Hosted Url Link-(https://react-fitness-orcin.vercel.app/)
 
 ![image](https://user-images.githubusercontent.com/64120304/215451218-f59eebf0-0a10-4823-88f3-3a40c2168943.png)
 
